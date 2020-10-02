@@ -1,6 +1,5 @@
 test
 ====
-Githubで作業するテストです。
-MacでSourceTree使ってやってみます。
+Githubで作業するテストです。  
 
 test github
